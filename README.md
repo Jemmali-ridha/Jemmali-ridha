@@ -1,105 +1,167 @@
-# Hi, I'm Ridha Jemmali 👋
+# Ridha Jemmali
 
-### IT & AI | Backend Development | Data Analysis
+### Computer Science Graduate · AI & Backend Development · Data
 
-I'm a Computer Science graduate specializing in **Big Data**, interested in building practical software solutions and integrating AI into applications.
+<p align="left">
+  <a href="https://github.com/Jemmali-ridha">
+    <img src="https://img.shields.io/badge/GitHub-Jemmali--ridha-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/jemmali-ridha/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ridha%20Jemmali-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-I enjoy working on **backend development, machine learning, data analysis, and web applications**, and I'm continuously improving my skills through personal projects and professional experiences.
+## About Me
+
+Computer Science graduate specialized in **Big Data**, with a strong interest in **Artificial Intelligence, backend engineering, and data-driven applications**.
+
+I enjoy turning ideas into practical software solutions — from designing REST APIs and backend services to integrating machine learning models and building applications around real-world data.
+
+My current focus is on developing solid foundations in **software engineering, backend development, machine learning, and AI integration**.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technical Stack
 
-**Languages**
+### Programming Languages
 
-* Python
-* PHP
-* Java
-* SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,java,mysql" />
+</p>
 
-**Backend & Web**
+### Backend & Frameworks
 
-* Flask
-* Laravel
-* Spring Boot
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,laravel,spring" />
+</p>
+
+* REST API Development
 * MVC Architecture
-* REST APIs
+* Backend Application Development
+* API Integration
 
-**Data & AI**
+### Data & Artificial Intelligence
 
-* Pandas
-* NumPy
+* Python for Data Analysis
+* Pandas & NumPy
 * Scikit-learn
-* Machine Learning
-* Data Cleaning & Visualization
-* TF-IDF & NLP
+* Supervised & Unsupervised Learning
+* Data Cleaning & Preprocessing
+* Data Visualization
+* Natural Language Processing
+* TF-IDF & Text Similarity
+* AI API Integration
 
-**Databases & DevOps**
+### Databases & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github" />
+</p>
 
 * MySQL
 * PostgreSQL
 * Docker
 * Git & GitHub
 
-**Other**
+---
 
-* Odoo
-* Moodle
-* AI API Integration
+## Featured Projects
+
+### Job Recommendation & CV Matching
+
+A full-stack application designed to analyze CVs, extract relevant skills, match candidates with job descriptions, and generate personalized job recommendations.
+
+**Key concepts:**
+
+* CV parsing
+* Text preprocessing
+* Skill extraction
+* TF-IDF similarity
+* Compatibility scoring
+* Missing-skill identification
+* REST API architecture
+
+**Stack:** Python · Flask · MySQL · Scikit-learn · NLP · Docker
+
+[View Repository](https://github.com/Jemmali-ridha/Job-Recommendation)
 
 ---
 
-## 🚀 Featured Projects
+### Crypto Advisor
 
-### 🔹 Job Recommendation & CV Matching
+A data-oriented project focused on cryptocurrency analysis and building an application around financial market data.
 
-A web application that analyzes CVs and recommends relevant job opportunities based on skills and job descriptions.
+**Focus:** Data processing · Analysis · Python · APIs
 
-**Tech:** Python, Flask, MySQL, Scikit-learn, TF-IDF, NLP, Docker
-
-[View Project](https://github.com/Jemmali-ridha/Job-Recommendation)
-
-### 🔹 Crypto Advisor
-
-A data-driven application focused on cryptocurrency analysis and recommendations.
-
-[View Project](https://github.com/Jemmali-ridha/Crypto-Advisor)
-
-### 🔹 LumiCourse — Automatic Answer Correction
-
-An intelligent Moodle plugin for automatically evaluating open-ended student answers using AI, with teacher validation through Accept, Modify, or Reject workflows.
-
-**Tech:** PHP, Moodle, AI API, Docker
+[View Repository](https://github.com/Jemmali-ridha/Crypto-Advisor)
 
 ---
 
-## 📚 Currently Learning
+### LumiCourse — Intelligent Open-Answer Correction
 
-* Advanced Backend Development
-* Spring Boot
-* Machine Learning
-* NLP
-* AI Integration
-* Software Architecture
+An intelligent Moodle plugin developed to assist teachers in correcting open-ended student answers.
 
----
+The system integrates AI-assisted correction with a teacher validation workflow, allowing generated corrections to be **accepted, modified, or rejected**.
 
-## 🎯 Interests
-
-* Artificial Intelligence
-* Machine Learning
-* Backend Development
-* Data Analysis
-* Web Development
-* AI-powered Applications
+**Stack:** PHP · Moodle · AI Integration · Docker
 
 ---
 
-## 📫 Contact
+## What I'm Working On
 
-* **LinkedIn:** [Ridha Jemmali](https://www.linkedin.com/in/jemmali-ridha/)
-* **GitHub:** [Jemmali-ridha](https://github.com/Jemmali-ridha)
+```text
+Backend Development      ███████████████████░░
+Artificial Intelligence  ██████████████████░░░
+Machine Learning         █████████████████░░░░
+Data Analysis            █████████████████░░░░
+Software Architecture    ██████████████░░░░░░
+```
+
+Currently focusing on:
+
+* Building production-oriented Flask and Spring Boot APIs
+* Improving backend architecture and database design
+* Developing machine learning applications
+* Integrating AI capabilities into web applications
+* Improving software engineering practices
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
+## Engineering Interests
+
+```text
+Artificial Intelligence
+Machine Learning
+Backend Engineering
+Data Analysis
+REST API Development
+NLP
+AI Integration
+Software Architecture
+```
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jemmali-ridha&show_icons=true&hide_border=true&rank_icon=github" alt="Ridha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jemmali-ridha&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## Let's Connect
+
+I'm interested in opportunities related to **software development, backend engineering, AI, machine learning, and data**.
+
+<p>
+  <a href="https://www.linkedin.com/in/jemmali-ridha/">LinkedIn</a> ·
+  <a href="https://github.com/Jemmali-ridha">GitHub</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and turning ideas into software.</i>
+</p>
